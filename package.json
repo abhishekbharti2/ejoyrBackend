@@ -1,0 +1,25 @@
+{
+  "name": "ejoyrbackend",
+  "version": "1.0.0",
+  "description": "enjoy your life with ejoyr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekbharti2/ejoyrBackend.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Abhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekbharti2/ejoyrBackend/issues"
+  },
+  "homepage": "https://github.com/abhishekbharti2/ejoyrBackend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
